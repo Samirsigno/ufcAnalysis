@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo y editor
+.DS_Store
+Thumbs.db
+desktop.ini
