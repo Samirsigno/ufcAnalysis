@@ -13,8 +13,8 @@ Análisis de datos de UFC (1994–2026) para responder tres preguntas:
 - **Ser más joven que el rival es la variable que más pesa.** Le siguen llegar activo cuando el rival lleva más de un año sin pelear, ser luchador contra un striker, tener mejor racha, tener más peleas en UFC y tener más alcance. La ventaja del luchador sobre el striker se mantiene al controlar por todas las demás variables.
 - En las peleas de 2022 en adelante, los modelos aciertan alrededor de **60%** de los resultados, contra 50% de un volado. Ayudan, pero el resultado de una pelea sigue siendo muy incierto.
 
-![Ventaja por estilo](ventaja_por_estilo.png)
-![Importancia de variables](importancia_variables.png)
+![Ventaja por estilo](figures/ventaja_por_estilo.png)
+![Importancia de variables](figures/importancia_variables.png)
 
 ## Métodos
 
